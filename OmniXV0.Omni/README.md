@@ -1,4 +1,4 @@
-# OmniXV0.Omni
+# OmniXV0.com
 OmniXV0 Official Website
 
 This is my official website, where I keep all my personal projects on.
